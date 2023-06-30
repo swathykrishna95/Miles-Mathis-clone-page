@@ -1,0 +1,80 @@
+body{
+    text-align: center;
+    background-color: #ffffcc;
+    font-family: garamond;
+}
+
+#white-space{
+    padding-top:50px;
+    padding-bottom:10px;
+    font-size:17px;
+    font-family: serif;
+}
+
+#cat-pic{
+    width: 400px;
+    margin-top: 5px;
+}
+
+#paypal-logo{
+    width: 100px;
+    padding-bottom: 50px;
+}
+
+#links{
+    font-size: 23px;
+    font-weight: bold;
+    background-color: #ccffff;
+    color: #990000;
+}
+
+#pbeforelink{
+    font-size: 20px;
+}
+
+#updates{
+    padding:40px 0;
+    
+}
+
+h1{
+    font-size: 47px;
+    font-weight: bold;
+}
+
+b{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#announcement-text{
+    font-size: 18px;
+    margin: 0 20px;
+}
+
+#spacing{
+    margin: 30px 0;
+}
+
+#blurb{
+    display:inline;
+    margin: 30px 20px;
+    font-size: 18px;
+    background-color: #eeeeee;
+}
+
+#update-links{
+    margin-left: 20px;
+    text-align: left;
+    font-size: 20px;
+    
+}
+
+a:visited{
+    color:#660066;
+}
+
+footer{
+    margin-top: 100px;
+    font-size: 15px;
+}
